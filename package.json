@@ -1,0 +1,31 @@
+{
+  "name": "vue-pdf-sign",
+  "version": "4.1.4",
+  "description": "vue.js pdf viewer",
+  "main": "src/vuePdfNoSss.vue",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranckFreiburger/vue-pdf-sign.git"
+  },
+  "keywords": [
+    "vue.js",
+    "pdf",
+    "viewer"
+  ],
+  "author": "Franck FREIBURGER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranckFreiburger/vue-pdf-sign/issues"
+  },
+  "homepage": "https://github.com/FranckFreiburger/vue-pdf-sign#readme",
+  "dependencies": {
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "loader-utils": "^1.4.0",
+    "raw-loader": "^4.0.1",
+    "worker-loader": "^2.0.0",
+    "pdfjs-dist-sign": "^2.5.208",
+    "vue-resize-sensor": "^2.0.0"
+  },
+  "peerDependencies": {}
+}
