@@ -4,7 +4,7 @@ vue.js pdf viewer
 ## Install
 ```bash
 npm install --save vue-pdf-sign
-2020-07-10 npm 重新打包!!支持显示签章  by 张海林
+2020-07-10 npm 重新打包!!支持显示签章  by 张总监  朱总监
 ```
 
 ## Example - basic
